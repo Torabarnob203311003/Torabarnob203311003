@@ -1,24 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF7F,100:0D1117&height=280&section=header&text=Abu%20Torab&fontSize=70&fontColor=00FF7F&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(Frontend)%20@%20Sparktech%20Agency&descAlignY=55&descSize=20&descColor=E6FFF0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF7F,100:0D1117&height=220&section=header" width="100%"/>
 
-<img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/e7018ab5-7ddd-48ae-99ea-6f8f84f81171&mask=circle&w=220&h=220&fit=cover" width="200" height="200" style="border-radius:50%;border:4px solid #00FF7F;box-shadow:0 0 30px #00FF7F, 0 0 60px #00FF7F55;" alt="Abu Torab"/>
+</div>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/e7018ab5-7ddd-48ae-99ea-6f8f84f81171&mask=circle&w=220&h=220&fit=cover" width="150" height="150" style="border-radius:50%;border:4px solid #00FF7F;box-shadow:0 0 25px #00FF7F, 0 0 50px #00FF7F55;margin-top:-90px;background:#0D1117;" alt="Abu Torab"/>
+</td>
+<td valign="middle">
+
+<h1>Abu Torab <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30"/></h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF7F&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Abu+Torab;Frontend+Software+Engineer;React+%7C+React+Native+%7C+Flutter+Developer;I+build+fast%2C+scalable+%26+beautiful+apps;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF7F&vCenter=true&width=500&lines=Software+Engineer+(Frontend);React+%7C+React+Native+%7C+Flutter+Developer;%40+Sparktech+Agency" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/-Available%20for%20Freelance-00FF7F?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Location-Bangladesh-00FF7F?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Company-Sparktech%20Agency-00FF7F?style=for-the-badge&labelColor=0D1117"/>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+<div align="center">
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
@@ -39,14 +50,14 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/img/comet.gif"/>
 
 ```yaml
-name: Abu Torab
-role: Software Engineer (Frontend)
-company: Sparktech Agency
-focus: Cross-Platform Development — Web, Mobile (React Native & Flutter)
-mission: Turning ideas into fast, pixel-perfect, production-ready products
-currently: Building sleek UIs & scalable mobile apps
-learning: Advanced state management, performance optimization, native modules
-fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
+Name: Abu Torab
+Role: Software Engineer (Frontend)
+Company: Sparktech Agency
+Focus: Cross-Platform Development — Web, Mobile (React Native & Flutter)
+Mission: Turning ideas into fast, pixel-perfect, production-ready products
+Currently: Building sleek UIs & scalable mobile apps
+Learning: Advanced state management, performance optimization, native modules
+Fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 ```
 
 - 🚀 I'm a **Frontend Software Engineer** at **Sparktech Agency**, crafting responsive websites and cross-platform mobile apps.
@@ -192,8 +203,8 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <div align="center">
 
-<a href="https://linkedin.com/in/torabarnob"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF7F&labelColor=0D1117"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00FF7F&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF7F&labelColor=0D1117"/></a>
+<a href="mailto:maxarnobtorab@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00FF7F&labelColor=0D1117"/></a>
 <a href="https://github.com/Torabarnob203311003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF7F&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF7F&labelColor=0D1117"/></a>
 
