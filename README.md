@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF7F,100:0D1117&height=280&section=header&text=Abu%20Torab&fontSize=70&fontColor=00FF7F&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(Frontend)%20@%20Sparktech%20Agency&descAlignY=55&descSize=20&descColor=E6FFF0" width="100%"/>
 
-<img src="https://github.com/user-attachments/assets/e7018ab5-7ddd-48ae-99ea-6f8f84f81171" width="180" height="180" style="border-radius:50%;object-fit:cover;border:4px solid #00FF7F;box-shadow:0 0 25px #00FF7F;" alt="Abu Torab"/>
+<img src="https://wsrv.nl/?url=https://github.com/user-attachments/assets/e7018ab5-7ddd-48ae-99ea-6f8f84f81171&mask=circle&w=220&h=220&fit=cover" width="200" height="200" style="border-radius:50%;border:4px solid #00FF7F;box-shadow:0 0 30px #00FF7F, 0 0 60px #00FF7F55;" alt="Abu Torab"/>
 
 <br/>
 
@@ -16,11 +16,27 @@
 <img src="https://img.shields.io/badge/Location-Bangladesh-00FF7F?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Company-Sparktech%20Agency-00FF7F?style=for-the-badge&labelColor=0D1117"/>
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://img.shields.io/badge/dynamic/json?color=00FF7F&label=Profile%20Views&query=$.count&url=https://api.countapi.xyz/hit/torabarnob203311003/profile&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=00FF7F&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTorabarnob203311003&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/Torabarnob203311003?label=Followers&style=for-the-badge&color=00FF7F&labelColor=0D1117"/>
 </div>
 
 <br/>
 
 ## 🧑‍💻 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/img/comet.gif"/>
 
 ```yaml
 name: Abu Torab
@@ -95,6 +111,41 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <br/>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Torabarnob203311003&repo=your-repo-1&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFF0&border_color=00FF7F" width="45%"/>
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Torabarnob203311003&repo=your-repo-2&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFF0&border_color=00FF7F" width="45%"/>
+</a>
+
+</div>
+
+> ✏️ Replace `your-repo-1` / `your-repo-2` with the actual repo names you want pinned here.
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Torabarnob203311003&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&title.className=trophy-title&title-color=00FF7F&background=0D1117&icon-color=00FF7F&text-color=E6FFF0" width="90%"/>
+</div>
+
+<br/>
+
+## 📚 Currently Learning
+
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=700&color=00FF7F&center=true&vCenter=true&width=600&lines=Advanced+State+Management;Native+Module+Development;App+Performance+Optimization;CI%2FCD+for+Mobile+Apps;Clean+Architecture+Patterns" alt="Learning" />
+</a>
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -147,6 +198,21 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF7F&labelColor=0D1117"/></a>
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## ☕ Support My Work
+
+<div align="center">
+<a href="#"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=0D1117&labelColor=0D1117"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20Projects-00FF7F?style=for-the-badge&labelColor=0D1117"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 <br/>
 
