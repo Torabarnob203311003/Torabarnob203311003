@@ -50,14 +50,14 @@
 <img align="right" width="280" src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/img/comet.gif"/>
 
 ```yaml
-Name: Abu Torab
-Role: Software Engineer (Frontend)
-Company: Sparktech Agency
-Focus: Cross-Platform Development — Web, Mobile (React Native & Flutter)
-Mission: Turning ideas into fast, pixel-perfect, production-ready products
-Currently: Building sleek UIs & scalable mobile apps
-Learning: Advanced state management, performance optimization, native modules
-Fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
+name: Abu Torab
+role: Software Engineer (Frontend)
+company: Sparktech Agency
+focus: Cross-Platform Development — Web, Mobile (React Native & Flutter)
+mission: Turning ideas into fast, pixel-perfect, production-ready products
+currently: Building sleek UIs & scalable mobile apps
+learning: Advanced state management, performance optimization, native modules
+fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 ```
 
 - 🚀 I'm a **Frontend Software Engineer** at **Sparktech Agency**, crafting responsive websites and cross-platform mobile apps.
@@ -122,7 +122,30 @@ Fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <br/>
 
+## 🚀 Featured Projects
 
+<div align="center">
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Torabarnob203311003&repo=your-repo-1&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FF0000&border_color=00FF7F" width="45%"/>
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Torabarnob203311003&repo=your-repo-2&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FF0000&border_color=00FF7F" width="45%"/>
+</a>
+
+</div>
+
+> ✏️ Replace `your-repo-1` / `your-repo-2` with the actual repo names you want pinned here.
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Torabarnob203311003&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&title.className=trophy-title&title-color=00FF7F&background=0D1117&icon-color=00FF7F&text-color=FF0000" width="90%"/>
+</div>
+
+<br/>
 
 ## 📚 Currently Learning
 
@@ -138,17 +161,17 @@ Fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Torabarnob203311003&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=E6FFF0&border_color=00FF7F&hide_border=false&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Torabarnob203311003&theme=dark&background=0D1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=E6FFF0&currStreakNum=E6FFF0&sideNums=E6FFF0&dates=8B949E&border=00FF7F&hide_border=false" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Torabarnob203311003&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FF0000&border_color=00FF7F&hide_border=false&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Torabarnob203311003&theme=dark&background=0D1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=FF0000&currStreakNum=FF0000&sideNums=FF0000&dates=8B949E&border=00FF7F&hide_border=false" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torabarnob203311003&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00FF7F&text_color=E6FFF0&border_color=00FF7F&hide_border=false&langs_count=10" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Torabarnob203311003&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00FF7F&text_color=E6FFF0&border_color=00FF7F&hide_border=false&hide=stars,commits,prs,issues,contribs&rank_icon=percentile" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Torabarnob203311003&layout=compact&theme=github_dark&bg_color=0D1117&title_color=00FF7F&text_color=FF0000&border_color=00FF7F&hide_border=false&langs_count=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Torabarnob203311003&show_icons=true&theme=github_dark&bg_color=0D1117&title_color=00FF7F&text_color=FF0000&border_color=00FF7F&hide_border=false&hide=stars,commits,prs,issues,contribs&rank_icon=percentile" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Torabarnob203311003&theme=react-dark&bg_color=0D1117&color=00FF7F&line=00FF7F&point=E6FFF0&area=true&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Torabarnob203311003&theme=react-dark&bg_color=0D1117&color=00FF7F&line=00FF7F&point=FF0000&area=true&hide_border=true" width="98%"/>
 
 </div>
 
@@ -180,8 +203,8 @@ Fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <div align="center">
 
-<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF7F&labelColor=0D1117"/></a>
-<a href="mailto:maxarnobtorab@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00FF7F&labelColor=0D1117"/></a>
+<a href="https://linkedin.com/in/torabarnob"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF7F&labelColor=0D1117"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00FF7F&labelColor=0D1117"/></a>
 <a href="https://github.com/Torabarnob203311003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF7F&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF7F&labelColor=0D1117"/></a>
 
