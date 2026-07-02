@@ -165,11 +165,7 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Torabarnob203311003/Torabarnob203311003/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
 
 <br/>
 
