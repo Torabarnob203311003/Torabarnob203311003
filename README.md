@@ -122,30 +122,6 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Torabarnob203311003&repo=your-repo-1&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FF0000&border_color=00FF7F" width="45%"/>
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Torabarnob203311003&repo=your-repo-2&theme=github_dark&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=FF0000&border_color=00FF7F" width="45%"/>
-</a>
-
-</div>
-
-> ✏️ Replace `your-repo-1` / `your-repo-2` with the actual repo names you want pinned here.
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Torabarnob203311003&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&title.className=trophy-title&title-color=00FF7F&background=0D1117&icon-color=00FF7F&text-color=FF0000" width="90%"/>
-</div>
-
-<br/>
 
 ## 📚 Currently Learning
 
@@ -175,7 +151,6 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 </div>
 
-> 💡 The graphs above are **live** — they auto-update from your real GitHub data (this year's commits, total repos, streaks) every time this README is viewed, no manual editing needed.
 
 <br/>
 
