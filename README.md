@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=00FF7F&label=Profile%20Views&query=$.count&url=https://api.countapi.xyz/hit/torabarnob203311003/profile&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=Torabarnob203311003&color=00FF7F&style=for-the-badge&label=Profile+Views&base=0001"/>
 <img src="https://img.shields.io/badge/dynamic/json?color=00FF7F&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTorabarnob203311003&style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/github/followers/Torabarnob203311003?label=Followers&style=for-the-badge&color=00FF7F&labelColor=0D1117"/>
 </div>
@@ -185,7 +185,6 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <img src="https://img.shields.io/badge/dynamic/json?color=00FF7F&label=Total%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTorabarnob203311003&style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/dynamic/json?color=00FF7F&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTorabarnob203311003&style=for-the-badge&labelColor=0D1117"/>
-<img src="https://komarev.com/ghpvc/?username=Torabarnob203311003&color=00FF7F&style=for-the-badge&label=Profile+Views"/>
 
 </div>
 
@@ -203,8 +202,8 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 <div align="center">
 
-<a href="https://linkedin.com/in/torabarnob"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF7F&labelColor=0D1117"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00FF7F&labelColor=0D1117"/></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF7F&labelColor=0D1117"/></a>
+<a href="mailto:maxarnobtorab@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00FF7F&labelColor=0D1117"/></a>
 <a href="https://github.com/Torabarnob203311003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF7F&labelColor=0D1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF7F&labelColor=0D1117"/></a>
 
