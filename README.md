@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF7F,100:0D1117&height=280&section=header&text=Abu%20Torab&fontSize=70&fontColor=00FF7F&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(Frontend)%20@%20Sparktech%20Agency&descAlignY=55&descSize=20&descColor=E6FFF0" width="100%"/>
 
-<img src="<img width="594" height="676" alt="Screenshot 2026-06-14 164659" src="https://github.com/user-attachments/assets/e7018ab5-7ddd-48ae-99ea-6f8f84f81171" />
-" width="150" height="150" style="border-radius:50%;border:3px solid #00FF7F;" alt="Abu Torab"/>
+<img src="https://github.com/user-attachments/assets/e7018ab5-7ddd-48ae-99ea-6f8f84f81171" width="180" height="180" style="border-radius:50%;object-fit:cover;border:4px solid #00FF7F;box-shadow:0 0 25px #00FF7F;" alt="Abu Torab"/>
 
 <br/>
 
@@ -52,16 +51,11 @@ fun_fact: I ship clean code and debug like a detective 🕵️‍♂️
 
 ### 📱 Mobile App Development
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,kotlin,swift&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio&theme=dark"/>
 </p>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=00FF7F&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=00FF7F&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=00FF7F&labelColor=0D1117"/>
-
-### ⚙️ Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,graphql&theme=dark"/>
-</p>
 
 ### 🧰 Tools & Platforms
 <p>
