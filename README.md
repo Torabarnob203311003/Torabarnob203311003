@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF7F,100:0D1117&height=280&section=header&text=Abu%20Torab&fontSize=70&fontColor=00FF7F&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20(Frontend)%20@%20Sparktech%20Agency&descAlignY=55&descSize=20&descColor=E6FFF0" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Torabarnob203311003/Torabarnob203311003/main/assets/demo-avatar.png" width="150" height="150" style="border-radius:50%;border:3px solid #00FF7F;" alt="Abu Torab"/>
+<img src="<img width="594" height="676" alt="Screenshot 2026-06-14 164659" src="https://github.com/user-attachments/assets/e7018ab5-7ddd-48ae-99ea-6f8f84f81171" />
+" width="150" height="150" style="border-radius:50%;border:3px solid #00FF7F;" alt="Abu Torab"/>
 
 <br/>
 
